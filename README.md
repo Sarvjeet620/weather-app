@@ -8,12 +8,13 @@ A Flask-based weather application using OpenWeather API.
 - Humidity
 - Wind speed
 
+#technologies used
+-python
+-Flask
+-OpenWeatherAPI
+
 ## Run Locally
 
 ```bash
 python app.py
 
-technologies uesd
--Python
--Flask
--penWeather API
